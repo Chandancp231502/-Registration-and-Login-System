@@ -1,4 +1,4 @@
-# -Registration-and-Login-System
+# Registration-and-Login-System
 # 🧾 Java Web Application: User Registration & Login System
 
 This project is a basic Java web application built using **JSP**, **Servlet**, **JDBC**, and **MySQL**. It allows users to register, log in, and view a profile page using session management.
